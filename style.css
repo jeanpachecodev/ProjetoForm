@@ -1,0 +1,20 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 5px;
+    margin-left: 5px;
+}
+ 
+.botao{
+    background-color: rgb(56, 56, 148);
+    color: white;
+    padding: 6px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+/* Para linkar o css no HTML precisa usar o comando  <link rel="stylesheet" href="style.css">
+ */
